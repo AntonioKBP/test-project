@@ -57,14 +57,14 @@
     width: 100%;
 
     &__modal-buy__text {
-        font-family: 'titan one';
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 1.5;
-        text-align: center;
-        letter-spacing: 0.03em;
-
-        color: palevioletred;
+    font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 194%;
+    
+        /* or 27px */
+        letter-spacing: 0.04em;
         
     }
 
